@@ -45,7 +45,6 @@ install.packages("stringr")
 library(stringr)
 ```
 
-
 ## New functions
 
 Thanks to the hard work of [John Harmon](https://github.com/jonthegeek) at [Tidyverse Developer Day](https://github.com/tidyverse/dev-day-2019), stringr has three new functions.
