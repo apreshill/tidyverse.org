@@ -36,6 +36,12 @@
 
       <div class="column25">
         <div class="section">
+          <div class="sectionTitle">Search</div>
+          {{ partial "swiftype.html" . }}
+          <input type="text" class="st-default-search-input">
+        </div>
+
+        <div class="section">
           <div class="sectionTitle">Categories</div>
           {{ range $key, $value := .Site.Taxonomies.categories }}
           <div class="articleCategory {{ replace (lower $key) " " "" }}">
