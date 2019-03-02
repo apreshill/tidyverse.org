@@ -47,8 +47,9 @@ Take a look at [all tidyverse courses](https://www.datacamp.com/tidyverse-tutori
 
 ## Workshops
 
-  * [Mastering the Tidyverse](https://www.jumpingrivers.com/courses/22_r-tidyverse) by Jumping Rivers. A one day crash course covering tidyverse fundamentals. The course is a mixture of lectures, short exercises and longer tutorial questions. During the day, we'll cover dplyr, tidy data, tibbles, dates/times and string manipulation.
-  * [Introduction to R](https://itsalocke.com/courses/intro-to-r/) by Locke Data. A two day course covering data manipulation and reporting fundamentals using the tidyverse, rmarkdown, and shiny. The course blends lectures, exercises, and practicals over two days to cover the 80% of work that almost everyone needs to do.
+* [Mastering the Tidyverse](https://www.jumpingrivers.com/courses/22_r-tidyverse) by Jumping Rivers. A one day crash course covering tidyverse fundamentals. The course is a mixture of lectures, short exercises and longer tutorial questions. During the day, we'll cover dplyr, tidy data, tibbles, dates/times and string manipulation.
+  
+* [Introduction to R](https://itsalocke.com/courses/intro-to-r/) by Locke Data. A two day course covering data manipulation and reporting fundamentals using the tidyverse, rmarkdown, and shiny. The course blends lectures, exercises, and practicals over two days to cover the 80% of work that almost everyone needs to do.
 
 ## University courses
 
