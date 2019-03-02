@@ -30,6 +30,10 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     name = "Contribute"
     url = "/contribute/"
     weight = 5
+[[menu.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 6
 
 [params]
     description = "The tidyverse is an integrated collection of R packages designed to make data science fast, fluid, and fun."
