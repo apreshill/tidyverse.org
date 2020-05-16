@@ -23,8 +23,11 @@ preserveTaxonomyNames = true
 # disableKinds = ["taxonomyTerm"]
 
 [permalinks]
-    blog = "blog/:year/:month/:slug/"
+    blog = "blog/:filename/"
     articles = "articles/:year/:month/:slug/"
+
+[frontmatter]
+    date = [":filename", ":default"]
 
 [taxonomies]
   category = "categories"
